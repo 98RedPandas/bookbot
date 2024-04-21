@@ -1,1 +1,2 @@
-info about this project
+BookBot is my first git project!
+
